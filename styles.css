@@ -1,0 +1,26 @@
+h1{
+    font-size: 500%;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 200%;
+    text-align: center;
+
+}
+
+h3{
+    font-size: 150%;
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+div { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
